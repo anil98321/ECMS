@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECMS.API", "ECMS.API\ECMS.A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECMS.Core", "ECMS.Core\ECMS.Core.csproj", "{3CB8D346-5D90-4FC1-B3ED-440DAEDED95E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECMS.WorkerService", "ECMS.WorkerService\ECMS.WorkerService.csproj", "{FAC83109-6A7B-45C0-8742-E2392D24B838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CB8D346-5D90-4FC1-B3ED-440DAEDED95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB8D346-5D90-4FC1-B3ED-440DAEDED95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB8D346-5D90-4FC1-B3ED-440DAEDED95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC83109-6A7B-45C0-8742-E2392D24B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC83109-6A7B-45C0-8742-E2392D24B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC83109-6A7B-45C0-8742-E2392D24B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC83109-6A7B-45C0-8742-E2392D24B838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
